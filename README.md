@@ -1,8 +1,8 @@
 # Ideas
 Freshman Basix Montreal Game Ideas Repo!
 
-
-* Larger than life characters plays unproportionally silly games to the death
+### YU-GI-OH-ISH
+**Premise** Larger than life characters plays unproportionally silly games to the death
 
 ### THE OCD BOY AND THE HOARDER ROOMATE
 **Premise** Tidy OCD vs messy roommate. You need to clean up the room before your roommate messes it up beyond what is possible to clean.  
