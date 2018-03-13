@@ -1,4 +1,4 @@
-# Ideas
+# IDEAS
 Freshman Basix Montreal Game Ideas Repo!
 
 ## YU-GI-OH-ISH
